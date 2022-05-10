@@ -1,0 +1,135 @@
+,Name,Level,year,"<= $20,000","$20,001 -
+$40,000","$40,001 -
+$60,000","$60,001 -
+$100,000","$100,001 -
+$250,000","> $250,000"
+NYC,New York City,City,2000,18.20%,16.30%,14.80%,21.70%,23.50%,5.40%
+NYC,New York City,City,2015-2019,18.00%,16.40%,12.90%,19.90%,25.60%,7.20%
+BX,The Bronx,Boro,2000,26.30%,19.40%,16.50%,20.20%,16.00%,1.60%
+BX,The Bronx,Boro,2015-2019,29.10%,21.20%,15.60%,18.60%,14.10%,1.50%
+BK,Brooklyn,Boro,2000,22.20%,18.20%,15.50%,20.90%,20.20%,3.00%
+BK,Brooklyn,Boro,2015-2019,19.00%,17.10%,13.20%,20.00%,25.00%,5.70%
+MN,Manhattan,Boro,2000,16.20%,13.20%,12.70%,19.20%,25.80%,12.80%
+MN,Manhattan,Boro,2015-2019,16.00%,12.40%,9.30%,16.90%,28.70%,16.70%
+QN,Queens,Boro,2000,12.60%,16.20%,15.70%,25.30%,27.00%,3.10%
+QN,Queens,Boro,2015-2019,12.90%,17.20%,14.30%,23.40%,28.40%,3.80%
+SI,Staten Island,Boro,2000,10.40%,12.00%,12.30%,24.20%,35.60%,5.50%
+SI,Staten Island,Boro,2015-2019,12.10%,12.30%,12.40%,21.10%,36.20%,5.80%
+BX 01,Mott Haven/Melrose,Community District,2000,40.60%,22.40%,15.10%,13.90%,7.50%,0.50%
+BX 01,Mott Haven/Melrose,Community District,2015-2019,42.70%,22.50%,13.70%,12.60%,7.70%,0.80%
+BX 02,Hunts Point/Longwood,Community District,2000,40.60%,22.40%,15.10%,13.90%,7.50%,0.50%
+BX 02,Hunts Point/Longwood,Community District,2015-2019,42.70%,22.50%,13.70%,12.60%,7.70%,0.80%
+BX 03,Morrisania/Crotona,Community District,2000,39.20%,22.50%,16.00%,14.70%,7.00%,0.60%
+BX 03,Morrisania/Crotona,Community District,2015-2019,41.00%,22.20%,15.40%,13.70%,7.00%,0.80%
+BX 04,Highbridge/Concourse,Community District,2000,32.50%,22.70%,18.00%,17.40%,8.30%,1.10%
+BX 04,Highbridge/Concourse,Community District,2015-2019,34.20%,24.60%,16.60%,15.80%,8.00%,0.70%
+BX 05,Fordham/University Heights,Community District,2000,35.50%,21.40%,15.20%,17.80%,8.90%,1.20%
+BX 05,Fordham/University Heights,Community District,2015-2019,37.40%,22.80%,16.50%,16.40%,6.60%,0.30%
+BX 06,Belmont/East Tremont,Community District,2000,39.20%,22.50%,16.00%,14.70%,7.00%,0.60%
+BX 06,Belmont/East Tremont,Community District,2015-2019,41.00%,22.20%,15.40%,13.70%,7.00%,0.80%
+BX 07,Kingsbridge Heights/Bedford,Community District,2000,27.10%,20.50%,18.50%,20.20%,12.40%,1.30%
+BX 07,Kingsbridge Heights/Bedford,Community District,2015-2019,30.20%,23.90%,18.70%,17.70%,9.00%,0.50%
+BX 08,Riverdale/Fieldston,Community District,2000,14.90%,14.80%,15.50%,25.40%,24.50%,4.90%
+BX 08,Riverdale/Fieldston,Community District,2015-2019,18.30%,17.40%,14.30%,20.30%,24.50%,5.30%
+BX 09,Parkchester/Soundview,Community District,2000,25.00%,19.90%,17.70%,21.30%,15.50%,0.60%
+BX 09,Parkchester/Soundview,Community District,2015-2019,26.30%,22.70%,15.30%,20.70%,13.80%,1.10%
+BX 10,Throgs Neck/Co-op City,Community District,2000,14.10%,15.40%,15.30%,25.00%,27.90%,2.40%
+BX 10,Throgs Neck/Co-op City,Community District,2015-2019,18.20%,16.00%,15.40%,23.00%,25.10%,2.30%
+BX 11,Morris Park/Bronxdale,Community District,2000,20.00%,18.40%,16.20%,22.20%,21.90%,1.30%
+BX 11,Morris Park/Bronxdale,Community District,2015-2019,18.60%,19.10%,17.70%,22.00%,20.80%,1.70%
+BX 12,Williamsbridge/Baychester,Community District,2000,17.80%,17.20%,17.10%,22.60%,23.40%,2.00%
+BX 12,Williamsbridge/Baychester,Community District,2015-2019,20.20%,19.10%,13.10%,24.20%,21.00%,2.40%
+BK 01,Greenpoint/Williamsburg,Community District,2000,26.30%,22.00%,16.30%,19.10%,15.10%,1.20%
+BK 01,Greenpoint/Williamsburg,Community District,2015-2019,16.50%,13.50%,10.60%,18.50%,31.30%,9.80%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2000,17.60%,14.70%,14.70%,20.80%,24.70%,7.50%
+BK 02,Fort Greene/Brooklyn Heights,Community District,2015-2019,14.30%,10.90%,9.00%,16.30%,33.40%,16.10%
+BK 03,Bedford Stuyvesant,Community District,2000,35.20%,19.30%,15.30%,15.90%,12.90%,1.40%
+BK 03,Bedford Stuyvesant,Community District,2015-2019,21.90%,18.20%,13.30%,20.10%,22.40%,4.10%
+BK 04,Bushwick,Community District,2000,30.80%,24.20%,17.10%,16.70%,10.20%,1.00%
+BK 04,Bushwick,Community District,2015-2019,24.20%,15.80%,13.50%,20.00%,23.70%,2.80%
+BK 05,East New York/Starrett City,Community District,2000,28.20%,20.10%,16.50%,19.40%,14.60%,1.30%
+BK 05,East New York/Starrett City,Community District,2015-2019,24.70%,21.70%,16.00%,20.30%,15.60%,1.70%
+BK 06,Park Slope/Carroll Gardens,Community District,2000,13.10%,9.90%,12.80%,22.20%,33.40%,8.60%
+BK 06,Park Slope/Carroll Gardens,Community District,2015-2019,10.70%,6.30%,6.50%,16.80%,40.00%,19.80%
+BK 07,Sunset Park,Community District,2000,20.30%,20.40%,16.20%,22.10%,19.00%,2.00%
+BK 07,Sunset Park,Community District,2015-2019,17.00%,20.40%,14.30%,19.80%,23.70%,4.90%
+BK 08,Crown Heights/Prospect Heights,Community District,2000,24.30%,20.30%,17.00%,20.50%,15.60%,2.30%
+BK 08,Crown Heights/Prospect Heights,Community District,2015-2019,20.10%,16.50%,11.90%,20.50%,25.40%,5.50%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2000,21.10%,20.20%,19.60%,20.50%,16.70%,1.90%
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2015-2019,17.70%,18.80%,14.90%,24.70%,21.10%,2.80%
+BK 10,Bay Ridge/Dyker Heights,Community District,2000,13.50%,15.90%,14.80%,24.10%,26.70%,5.00%
+BK 10,Bay Ridge/Dyker Heights,Community District,2015-2019,13.20%,16.00%,12.10%,22.90%,29.70%,6.10%
+BK 11,Bensonhurst,Community District,2000,21.70%,18.10%,15.30%,21.60%,21.80%,1.60%
+BK 11,Bensonhurst,Community District,2015-2019,17.10%,21.10%,15.40%,19.80%,23.50%,3.20%
+BK 12,Borough Park,Community District,2000,23.90%,19.30%,13.10%,21.40%,19.20%,3.10%
+BK 12,Borough Park,Community District,2015-2019,20.10%,21.70%,15.80%,18.60%,19.90%,4.00%
+BK 13,Coney Island,Community District,2000,32.60%,19.50%,14.00%,18.90%,13.50%,1.40%
+BK 13,Coney Island,Community District,2015-2019,32.50%,18.80%,12.80%,16.70%,17.50%,1.80%
+BK 14,Flatbush/Midwood,Community District,2000,21.20%,17.50%,17.00%,22.10%,18.90%,3.30%
+BK 14,Flatbush/Midwood,Community District,2015-2019,18.80%,17.50%,15.30%,22.40%,21.80%,4.10%
+BK 15,Sheepshead Bay,Community District,2000,19.30%,16.90%,14.30%,20.30%,25.80%,3.40%
+BK 15,Sheepshead Bay,Community District,2015-2019,16.60%,16.60%,13.60%,20.60%,27.70%,4.90%
+BK 16,Brownsville,Community District,2000,35.60%,22.80%,15.00%,16.00%,9.70%,0.90%
+BK 16,Brownsville,Community District,2015-2019,37.50%,20.70%,14.00%,15.40%,11.10%,1.30%
+BK 17,East Flatbush,Community District,2000,15.70%,20.60%,17.20%,24.60%,19.80%,2.10%
+BK 17,East Flatbush,Community District,2015-2019,15.40%,21.50%,16.50%,23.40%,21.30%,1.90%
+BK 18,Flatlands/Canarsie,Community District,2000,12.00%,12.50%,14.00%,25.50%,32.70%,3.40%
+BK 18,Flatlands/Canarsie,Community District,2015-2019,11.10%,15.10%,12.90%,23.00%,33.60%,4.40%
+MN 01,Financial District,Community District,2000,8.80%,9.90%,10.90%,17.70%,34.20%,18.50%
+MN 01,Financial District,Community District,2015-2019,7.80%,7.30%,5.70%,14.10%,36.40%,28.70%
+MN 02,Greenwich Village/Soho,Community District,2000,8.80%,9.90%,10.90%,17.70%,34.20%,18.50%
+MN 02,Greenwich Village/Soho,Community District,2015-2019,7.80%,7.30%,5.70%,14.10%,36.40%,28.70%
+MN 03,Lower East Side/Chinatown,Community District,2000,26.30%,19.80%,16.00%,19.10%,14.90%,3.90%
+MN 03,Lower East Side/Chinatown,Community District,2015-2019,28.20%,18.00%,11.60%,15.90%,20.20%,6.10%
+MN 04,Clinton/Chelsea,Community District,2000,12.10%,12.00%,12.30%,20.20%,30.00%,13.40%
+MN 04,Clinton/Chelsea,Community District,2015-2019,12.90%,10.60%,7.40%,14.20%,35.00%,19.90%
+MN 05,Midtown,Community District,2000,12.10%,12.00%,12.30%,20.20%,30.00%,13.40%
+MN 05,Midtown,Community District,2015-2019,12.90%,10.60%,7.40%,14.20%,35.00%,19.90%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2000,7.50%,8.40%,10.70%,21.00%,36.60%,15.90%
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2015-2019,7.60%,8.30%,7.90%,16.20%,37.80%,22.20%
+MN 07,Upper West Side,Community District,2000,10.80%,9.50%,10.50%,18.30%,31.30%,19.70%
+MN 07,Upper West Side,Community District,2015-2019,11.50%,9.80%,6.60%,14.70%,30.50%,26.90%
+MN 08,Upper East Side,Community District,2000,7.30%,7.40%,9.10%,19.50%,32.80%,23.80%
+MN 08,Upper East Side,Community District,2015-2019,6.70%,7.70%,7.60%,18.60%,34.20%,25.20%
+MN 09,Morningside Heights/Hamilton,Community District,2000,26.30%,17.90%,15.20%,18.90%,17.70%,4.00%
+MN 09,Morningside Heights/Hamilton,Community District,2015-2019,22.30%,16.80%,12.50%,18.70%,22.40%,7.40%
+MN 10,Central Harlem,Community District,2000,35.20%,21.80%,16.20%,15.40%,10.20%,1.30%
+MN 10,Central Harlem,Community District,2015-2019,25.90%,17.80%,13.70%,16.90%,20.30%,5.50%
+MN 11,East Harlem,Community District,2000,33.90%,20.00%,16.70%,16.10%,11.10%,2.20%
+MN 11,East Harlem,Community District,2015-2019,34.50%,18.70%,11.60%,18.30%,13.40%,3.60%
+MN 12,Washington Heights/Inwood,Community District,2000,23.30%,20.30%,17.90%,22.50%,14.30%,1.80%
+MN 12,Washington Heights/Inwood,Community District,2015-2019,21.90%,18.20%,13.70%,22.90%,21.50%,1.80%
+QN 01,Astoria,Community District,2000,17.20%,18.30%,16.90%,24.50%,21.30%,1.90%
+QN 01,Astoria,Community District,2015-2019,14.40%,16.40%,13.60%,22.70%,29.10%,3.90%
+QN 02,Woodside/Sunnyside,Community District,2000,12.50%,18.00%,17.10%,26.60%,23.20%,2.50%
+QN 02,Woodside/Sunnyside,Community District,2015-2019,8.50%,17.90%,15.60%,24.00%,28.70%,5.30%
+QN 03,Jackson Heights,Community District,2000,14.60%,18.60%,16.90%,26.00%,22.10%,1.80%
+QN 03,Jackson Heights,Community District,2015-2019,14.00%,21.90%,16.30%,23.80%,22.00%,2.00%
+QN 04,Elmhurst/Corona,Community District,2000,15.70%,18.50%,19.00%,23.60%,21.50%,1.80%
+QN 04,Elmhurst/Corona,Community District,2015-2019,15.00%,22.30%,19.30%,25.20%,16.70%,1.50%
+QN 05,Ridgewood/Maspeth,Community District,2000,13.20%,17.20%,16.70%,25.50%,25.20%,2.20%
+QN 05,Ridgewood/Maspeth,Community District,2015-2019,10.70%,16.10%,13.40%,25.20%,31.70%,2.90%
+QN 06,Rego Park/Forest Hills,Community District,2000,13.40%,14.50%,12.50%,24.60%,29.40%,5.70%
+QN 06,Rego Park/Forest Hills,Community District,2015-2019,13.50%,14.90%,10.20%,22.40%,31.90%,7.10%
+QN 07,Flushing/Whitestone,Community District,2000,10.70%,16.70%,15.30%,25.50%,27.80%,4.00%
+QN 07,Flushing/Whitestone,Community District,2015-2019,17.10%,21.00%,14.90%,20.40%,23.30%,3.30%
+QN 08,Hillcrest/Fresh Meadows,Community District,2000,10.00%,13.50%,14.90%,26.50%,30.10%,5.00%
+QN 08,Hillcrest/Fresh Meadows,Community District,2015-2019,12.70%,18.20%,13.20%,24.90%,27.30%,3.80%
+QN 09,Kew Gardens/Woodhaven,Community District,2000,12.30%,16.70%,16.00%,27.00%,25.70%,2.30%
+QN 09,Kew Gardens/Woodhaven,Community District,2015-2019,11.60%,16.40%,13.10%,25.80%,29.30%,3.70%
+QN 10,South Ozone Park/Howard Beach,Community District,2000,9.30%,15.70%,15.40%,25.90%,31.50%,2.20%
+QN 10,South Ozone Park/Howard Beach,Community District,2015-2019,10.70%,13.20%,15.00%,21.60%,35.30%,4.20%
+QN 11,Bayside/Little Neck,Community District,2000,7.00%,13.30%,11.20%,25.10%,37.30%,6.10%
+QN 11,Bayside/Little Neck,Community District,2015-2019,8.90%,14.10%,12.30%,21.90%,37.10%,5.80%
+QN 12,Jamaica/Hollis,Community District,2000,13.70%,17.40%,17.80%,24.20%,24.90%,2.10%
+QN 12,Jamaica/Hollis,Community District,2015-2019,13.10%,17.40%,16.00%,25.30%,26.00%,2.20%
+QN 13,Queens Village,Community District,2000,6.70%,11.20%,13.40%,26.40%,38.10%,4.10%
+QN 13,Queens Village,Community District,2015-2019,7.90%,11.70%,12.00%,24.50%,39.70%,4.20%
+QN 14,Rockaway/Broad Channel,Community District,2000,22.30%,16.70%,16.20%,22.10%,20.60%,2.10%
+QN 14,Rockaway/Broad Channel,Community District,2015-2019,20.50%,17.40%,15.80%,20.60%,21.40%,4.30%
+SI 01,St. George/Stapleton,Community District,2000,14.80%,14.60%,13.20%,24.60%,28.70%,4.10%
+SI 01,St. George/Stapleton,Community District,2015-2019,17.30%,12.20%,13.70%,20.30%,32.60%,3.90%
+SI 02,South Beach/Willowbrook,Community District,2000,9.50%,11.90%,12.10%,23.80%,36.50%,6.10%
+SI 02,South Beach/Willowbrook,Community District,2015-2019,10.60%,12.90%,11.60%,21.70%,36.70%,6.60%
+SI 03,Tottenville/Great Kills,Community District,2000,6.50%,9.20%,11.50%,24.10%,42.10%,6.50%
+SI 03,Tottenville/Great Kills,Community District,2015-2019,8.10%,11.80%,11.80%,21.50%,39.60%,7.20%
